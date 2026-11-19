@@ -1,7 +1,7 @@
 # Wave Energy Converter (WEC)
 ### Design, Development and Experimental Evaluation
 
-![Wave Energy Converter Prototype](generador_undomotriz.jpeg)
+![Wave Energy Converter Prototype](generador_undomotriz1.jpeg)
 
 ## 1. Project Overview
 
